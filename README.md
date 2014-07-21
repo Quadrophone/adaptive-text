@@ -1,4 +1,4 @@
-adaptive-text
+jQuery Adaptive Text Color
+
 =============
 
-jQuery Adaptive Text Color
